@@ -1,7 +1,5 @@
 ## Java-Application-Ping-Pong
 
-## Java-Application-Sudoku
-
 ## Daily Progress Through Course
 
 * 13/07/25 Day 1: 00:00:00-00:05:00
